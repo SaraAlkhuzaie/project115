@@ -5,7 +5,7 @@ public class DemoMonday {
 		System.out.println("Sara");
 	}
 	public static void num( ) {
-		
+			System.out.println("Sara");
 	}
 
 }
